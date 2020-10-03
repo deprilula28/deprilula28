@@ -6,4 +6,4 @@ It's a me, depp
 
 deprilula28#3609 on Discord
 
-*faria uma versão em português se tivesse com vontade, ..*
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deprilula28)](https://github.com/anuraghazra/github-readme-stats)
